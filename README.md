@@ -8,10 +8,10 @@ The tool is developed for A unified Multi-view-based Joint representation learni
 - Gensim 3.8.3
 - PyTorch 1.8.1
 - Ubuntu 18.04 (64-bit)
-#data
+# data
 -circRNA-RBP
 -lnRNA-RBP 
-#code
+# code
 -BertDealEmbedding.py 
 -AnalyseFASTA.py
 -Deal_Kmer.py
