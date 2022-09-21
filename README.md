@@ -9,14 +9,14 @@ The tool is developed for A unified Multi-view-based Joint representation learni
 - PyTorch 1.8.1
 - Ubuntu 18.04 (64-bit)
 # data
--circRNA-RBP
--lnRNA-RBP 
+- circRNA-RBP
+- lnRNA-RBP 
 # code
--BertDealEmbedding.py 
--AnalyseFASTA.py
--Deal_Kmer.py
--DProcess.py
--JLCRB.py
+- BertDealEmbedding.py 
+- AnalyseFASTA.py
+- Deal_Kmer.py
+- DProcess.py
+- JLCRB.py
 ## How to train the CircRNA model
 You can train the model of 5-fold cross-validation with a very simple way by the command blow:  
 *Python JLCRB.py* and make sure the RNA embedding flag is set to circRNA_model. The script of if **name == "main"** calls training process which trains several models of each model type for a circRNA and finds the best set of hyperparameters. The main function then trains the models several times (num_final_runs) and saves the best model.
