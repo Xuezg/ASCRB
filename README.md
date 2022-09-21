@@ -6,7 +6,7 @@ The tool is developed for A unified Multi-view-based Joint representation learni
 - TensorFlow-GPU 1.13.0 in Python
 - Numpy 1.18.0 in Python
 - Gensim 3.8.3
-- - PyTorch 1.8.1
+- PyTorch 1.8.1
 - Ubuntu 18.04 (64-bit)
 ## How to train the CircRNA model
 You can train the model of 5-fold cross-validation with a very simple way by the command blow:  
