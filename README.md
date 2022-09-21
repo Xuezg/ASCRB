@@ -1,6 +1,5 @@
 # JLCRB
 The tool is developed for A unified Multi-view-based Joint representation learning for CircRNA Binding Sites prediction
-JLCRB project
 # Requirements
 - Python 3.6 (64-bit)
 - Keras 2.2.5 in Python
