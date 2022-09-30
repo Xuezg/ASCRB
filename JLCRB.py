@@ -324,7 +324,7 @@ def main(parser):
 
 
     batchSize = 100
-    maxEpochs = 15
+    maxEpochs = 30
     basic_path = file_storage + userid + '/'
     methodName = protein
 
