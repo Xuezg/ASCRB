@@ -1,4 +1,4 @@
-# JLCRB
+# ASCRB
 The tool is developed for A unified Multi-view-based Joint representation learning for CircRNA Binding Sites prediction
 # Requirements
 - Python 3.6 (64-bit)
